@@ -1,0 +1,8 @@
+  <div>
+        <Header/>
+        <div style={{position: "relative",width: "60%",margin: "auto",marginTop: "10%"}}>
+    <div class="container">
+
+    </div>
+    </div>
+    </div>
